@@ -1,0 +1,13 @@
+scenario,origin,reachable,path_length,visited
+normal,pc_aula,True,4.0,136
+normal,pc_central_aula,True,4.0,136
+normal,admin_pc,True,3.0,15
+normal,surveillance,True,2.0,8
+alta_seguridad,pc_aula,False,,1
+alta_seguridad,pc_central_aula,True,4.0,31
+alta_seguridad,admin_pc,True,3.0,15
+alta_seguridad,surveillance,True,2.0,8
+congestion,pc_aula,True,4.0,136
+congestion,pc_central_aula,True,4.0,136
+congestion,admin_pc,True,3.0,15
+congestion,surveillance,True,2.0,8

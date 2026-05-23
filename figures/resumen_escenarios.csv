@@ -1,0 +1,4 @@
+scenario,reachable_rate,avg_path_length,avg_visited
+alta_seguridad,0.75,3.0,13.75
+congestion,1.0,3.25,73.75
+normal,1.0,3.25,73.75
