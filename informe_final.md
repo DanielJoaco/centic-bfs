@@ -23,7 +23,7 @@ Analisis de conectividad en la red del CENTIC de la UIS mediante teoria de grafo
 
 - Notebook en Google Colab: https://colab.research.google.com/github/DanielJoaco/centic-bfs/blob/main/centic_bfs.ipynb
 - Repositorio de GitHub: https://github.com/DanielJoaco/centic-bfs
-- Video en YouTube: pendiente de enlace.
+- Video en YouTube: https://youtu.be/4uEC7MpZv7Q
 - Poster:Archivo adjunto en pdf externo.
 
 ## 1. Sobre el proyecto
