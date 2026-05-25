@@ -24,7 +24,7 @@ Analisis de conectividad en la red del CENTIC de la UIS mediante teoria de grafo
 - Notebook en Google Colab: https://colab.research.google.com/github/DanielJoaco/centic-bfs/blob/main/centic_bfs.ipynb
 - Repositorio de GitHub: https://github.com/DanielJoaco/centic-bfs
 - Video en YouTube: https://youtu.be/4uEC7MpZv7Q
-- Poster:Archivo adjunto en pdf externo.
+- Poster: [Poster Discretas 2026-1 F2.pdf](Poster%20Discretas%202026-1%20F2.pdf)
 
 ## 1. Sobre el proyecto
 
@@ -65,7 +65,7 @@ Como resultado del proyecto se consideran los siguientes productos:
 
 - Notebook en Google Colab: contiene la descripcion del problema, el modelo del grafo, los escenarios de prueba, la implementacion propia de BFS con filtrado de aristas, las tablas de resultados y las visualizaciones.
 - Video en YouTube: producto pendiente de enlace. Su objetivo sera presentar en un maximo de ocho minutos el problema, la investigacion realizada, la solucion algoritmica y los resultados obtenidos.
-- Poster: producto pendiente de enlace o archivo final. Su objetivo sera resumir el proceso seguido, el modelo de grafos, la implementacion y los resultados principales.
+- Poster: archivo final en PDF incluido en el repositorio. Resume el proceso seguido, el modelo de grafos, la implementacion y los resultados principales.
 
 ### 1.4 Roles de los miembros del grupo
 
@@ -75,7 +75,7 @@ Estos roles pueden ajustarse en la entrega final si el grupo modifica la distrib
 
 ### 1.5 Criterios de evaluacion considerados
 
-El informe se desarrolla teniendo en cuenta los productos y porcentajes definidos para el proyecto. La descripcion e investigacion del problema, junto con las alternativas de solucion, se reflejan en las secciones de modelado, equivalencia matematica y seleccion algoritmica. La implementacion computacional se documenta a partir del notebook de Google Colab. El video y el poster se registran como productos esperados, con enlaces pendientes de confirmacion.
+El informe se desarrolla teniendo en cuenta los productos y porcentajes definidos para el proyecto. La descripcion e investigacion del problema, junto con las alternativas de solucion, se reflejan en las secciones de modelado, equivalencia matematica y seleccion algoritmica. La implementacion computacional se documenta a partir del notebook de Google Colab. El video y el poster se registran como productos entregados del proyecto.
 
 ## 2. Objetivos
 
