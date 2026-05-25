@@ -7,8 +7,8 @@ Analisis de conectividad en la red del CENTIC de la UIS mediante teoria de grafo
 ## Integrantes
 
 - Adrian Santiago Sanchez Guerra - F2
-- Daniel Joaquin Orjuela Holguin - F3
-- Jose David Consuegra Medina - F3
+- Daniel Joaquin Orjuela Holguin - F2
+- Jose David Consuegra Medina - F2
 - Cristian David Pinzón Galvis - F2
 
 ## Roles del grupo
