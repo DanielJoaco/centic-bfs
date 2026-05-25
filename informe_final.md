@@ -11,13 +11,13 @@ Analisis de conectividad en la red del CENTIC de la UIS mediante teoria de grafo
 - Jose David Consuegra Medina - F3
 - Cristian David Pinzón Galvis - F2
 
-## Roles provisionales del grupo
+## Roles del grupo
 
-- Lider del grupo: Cristian, pendiente de confirmar datos completos.
+- Lider del grupo: Jose David Consuegra Medina.
 - Daniel Joaquin Orjuela Holguin: implementacion del algoritmo BFS y apoyo en el notebook de Google Colab.
-- Cristian: liderazgo provisional y elaboracion del poster.
+- Cristian David Pinzón Galvis: apoyo en la elaboracion del poster.
 - Adrian Santiago Sanchez Guerra: apoyo en la elaboracion del video.
-- Jose David Consuegra Medina: desarrollo y redaccion del informe final.
+- Jose David Consuegra Medina: liderazgo del grupo, desarrollo y redaccion del informe final.
 
 ## Enlaces del proyecto
 
@@ -69,7 +69,7 @@ Como resultado del proyecto se consideran los siguientes productos:
 
 ### 1.4 Roles de los miembros del grupo
 
-El grupo definio roles provisionales para distribuir el trabajo del proyecto. Cristian sera el lider del grupo cuando se confirmen sus datos completos. Su funcion principal sera orientar el desarrollo general y apoyar la elaboracion del poster. Daniel Joaquin Orjuela Holguin se encarga principalmente de la implementacion del algoritmo BFS y del desarrollo computacional en el notebook. Adrian Santiago Sanchez Guerra apoya la elaboracion del video. Jose David Consuegra Medina se encarga del desarrollo y redaccion del informe final.
+El grupo definio roles para distribuir el trabajo del proyecto. Jose David Consuegra Medina es el lider del grupo y se encarga del desarrollo y redaccion del informe final. Daniel Joaquin Orjuela Holguin se encarga principalmente de la implementacion del algoritmo BFS y del desarrollo computacional en el notebook. Adrian Santiago Sanchez Guerra apoya la elaboracion del video. Cristian David Pinzón Galvis apoya la elaboracion del poster.
 
 Estos roles pueden ajustarse en la entrega final si el grupo modifica la distribucion de tareas o confirma datos faltantes.
 
